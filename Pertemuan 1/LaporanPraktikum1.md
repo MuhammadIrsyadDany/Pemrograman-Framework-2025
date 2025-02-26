@@ -1,4 +1,4 @@
-# Laporan Praktikum 1
+# Laporan Praktikum Pertemuan 1
 
 NIM : 2241720227 \
 NAMA : MUHAMMAD IRSYAD DANY \
